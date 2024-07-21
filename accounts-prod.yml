@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Accounts Service in Production"
+  message: "Accounts Service in Prod"
   contactDetails:
     email: "akash-prod@gmail.com"
     name: "AkashProd"
