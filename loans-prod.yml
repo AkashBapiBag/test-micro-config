@@ -7,5 +7,5 @@ loans:
     email: "akash-prod@gmail.com"
     name: "AkashProd"
   onCallSupport:
-    -(+91) 3234567890
-    -(+91) 4987654321
+    - (+91) 3234567890
+    - (+91) 4987654321
