@@ -7,5 +7,5 @@ accounts:
     email: "akash@gmail.com"
     name: "Akash"
   onCallSupport:
-    -(+91) 1234567890
-    -(+91) 0987654321
+    - (+91) 1234567890
+    - (+91) 0987654321
