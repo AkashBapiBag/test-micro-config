@@ -5,7 +5,7 @@ cards:
   message: "Cards Service in Production"
   contactDetails:
     email: "{cipher}b759bd3b25e306a0b3e12ebea9f9c404ce470de4a1a9cfa316d24673ce4e5daf"
-    name: "AkashProd"
+    name: "AkashProduction"
   onCallSupport:
     - (+91) 3234567890
     - (+91) 4987654321
