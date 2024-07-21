@@ -4,7 +4,7 @@ build:
 cards:
   message: "Cards Service in Prod"
   contactDetails:
-    email: "akash-prod@gmail.com"
+    email: "{cipher}b759bd3b25e306a0b3e12ebea9f9c404ce470de4a1a9cfa316d24673ce4e5daf"
     name: "AkashProd"
   onCallSupport:
     -(+91) 3234567890
