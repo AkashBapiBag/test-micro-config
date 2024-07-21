@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Cards Service in QA"
+  contactDetails:
+    email: "akash-qa@gmail.com"
+    name: "AkashQA"
+  onCallSupport:
+    -(+91) 2234567890
+    -(+91) 3987654321

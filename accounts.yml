@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Accounts Service"
+  contactDetails:
+    email: "akash@gmail.com"
+    name: "Akash"
+  onCallSupport:
+    -(+91) 1234567890
+    -(+91) 0987654321
