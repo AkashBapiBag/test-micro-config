@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Accounts Service"
+  message: "Accounts Service default profile"
   contactDetails:
     email: "akash@gmail.com"
     name: "Akash"
