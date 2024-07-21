@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Loans Service in Production"
+  message: "Loans Service in Prod"
   contactDetails:
     email: "akash-prod@gmail.com"
     name: "AkashProd"
